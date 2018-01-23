@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/giuseppegarbin/graphql-node#readme",
   "dependencies": {
-    "create-react-app": "^1.5.1"
+    "apollo-client-preset": "^1.0.6",
+    "create-react-app": "^1.5.1",
+    "graphql": "^0.12.3",
+    "graphql-tag": "^2.6.1",
+    "react-apollo": "^2.0.4"
   }
 }
